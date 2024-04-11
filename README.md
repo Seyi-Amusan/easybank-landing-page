@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./image-1.png)
+![Screenshot](./image.png)
 
 
 
