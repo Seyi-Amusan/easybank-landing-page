@@ -10,11 +10,7 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -28,14 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./image.png)
+![Screenshot](image.png)
 
 
 
 ### Links
 
- - [Solution](https://your-solution-url.com)
- - [Live Site](https://your-live-site-url.com)
+ - [Solution @ frontendmentor.io](https://your-solution-url.com)
+ - [Live Site](https://seyi-amusan.github.io/easybank-landing-page/)
 
 ## My process
 
@@ -51,5 +47,6 @@ Users should be able to:
 
 ## Author
 
+- Upwork - [Seyi-Amusan](https://www.upwork.com/freelancers/~010722464f8f321738?mp_source=share)
 - Frontend Mentor - [Seyi-Amusan](https://www.frontendmentor.io/profile/Seyi-Amusan)
 
